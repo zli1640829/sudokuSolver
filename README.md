@@ -1,6 +1,7 @@
 # sudokuSolver
 
 author: Zhiheng Li
+
 contact: zli050829@gmail.com
 
 This Java program is a Sudoku solver built for my university AI course project. It combines ideas from constraint satisfaction problems (CSP) and backtracking search to solve Sudoku puzzles efficiently and logically — very much like how a human would reason through them.
